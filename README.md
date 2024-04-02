@@ -1,11 +1,11 @@
-# todo.txt format
+# todo.txt 格式說明
 [![Gitter](https://img.shields.io/gitter/room/todotxt/todotxt.svg)](https://gitter.im/todotxt/todotxt)
 
-A complete primer on the whys and hows of todo.txt.
+一個完整入門 todo.txt 該如何使用說明
 
-The first and most important rule of todo.txt:
+todo.txt 第一個跟許多重要的規則如下:
 
-> A single line in your todo.txt text file represents a single task.
+> 於你的 todo.txt 的一個單行文字檔案代表一個任務。
 
 
 ## Why plain text?
